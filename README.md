@@ -8,7 +8,9 @@
 
 这个并不能生成条形码，我在libzxing/zxing/encoding/EncodingUtils填加了生成条形码的方法，下载本项目，直接解压libzxing即可使用。
 
-关于踩坑，ImageView.setImageBitmap()不能自动填满整个控件，在生成bitmap的时候尺寸过大会导致oom，这里用生成bitmap后拉伸的方法来填满控件ImageView.setScaleType(ImageView.ScaleType.FIT_XY);
+关于踩坑，ImageView.setImageBitmap()不能自动填满整个控件，在生成bitmap的时候尺寸过大会导致oom，这里用生成bitmap后拉伸的方法来填满控件
+
+即用ImageView.setScaleType(ImageView.ScaleType.FIT_XY);
 
 注意，此方法应该在setImageBitmap()后调用。
 
