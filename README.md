@@ -4,7 +4,7 @@
 
 有问题可以随时Issue，也欢迎联系本人mafanwei@outlook.com，喜欢给个star哦！
 
-里面的zxing用的是https://github.com/xuyisheng/ZXingLib这个项目基于zxing 3.1，算是比较新的了。
+里面的zxing用的是https://github.com/xuyisheng/ZXingLib 这个项目基于zxing 3.1，算是比较新的了。
 
 这个并不能生成条形码，我在libzxing/zxing/encoding/EncodingUtils填加了生成条形码的方法，下载本项目，直接解压libzxing即可使用。
 
