@@ -21,6 +21,7 @@
 ![image](https://github.com/mafanwei/VipCard/raw/master/Screenshot_20180207-101446.png)
 
 
+![image](https://github.com/mafanwei/VipCard/raw/master/Screenshot_20180207-101451.png)
 
-
+![image](https://github.com/mafanwei/VipCard/raw/master/Screenshot_20180207-101534.png)
 
