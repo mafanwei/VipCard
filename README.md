@@ -14,7 +14,7 @@
 
 注意，此方法应该在setImageBitmap()后调用。
 
-[index](https://github.com/mafanwei/VipCard/blob/master/Screenshot_20180207-101446.png)
+https://github.com/mafanwei/VipCard/master/Screenshot_20180207-101446.png
 
 (https://github.com/linwh8/ModernWebPrograming/raw/master/My_image/Calculator.png)
 
