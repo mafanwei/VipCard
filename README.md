@@ -14,4 +14,6 @@
 
 注意，此方法应该在setImageBitmap()后调用。
 
+http://github.com/mfanwei/VipCard/raw/master/img.jpg
+
 
