@@ -14,6 +14,7 @@
 
 注意，此方法应该在setImageBitmap()后调用。
 
-http://github.com/mfanwei/VipCard/raw/master/img.jpg
+http://github.com/mfanwei/VipCard/raw/master/Screenshot_20180207-101446.png
+
 
 
