@@ -14,13 +14,13 @@
 
 注意，此方法应该在setImageBitmap()后调用。
 
-https://github.com/mafanwei/VipCard/master/Screenshot_20180207-101446.png
 
-![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
 
-(https://github.com/mafanwei/VipCard/raw/master/Screenshot_20180207-101446.png)
 
-(https://github.com/linwh8/ModernWebPrograming/raw/master/My_image/Calculator.png)
+
+![image](https://github.com/mafanwei/VipCard/raw/master/Screenshot_20180207-101446.png)
+
+
 
 
 
